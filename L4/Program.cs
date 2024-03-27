@@ -15,7 +15,7 @@ namespace L4
             Console.WriteLine("Word1 \nWord2");     
             Console.WriteLine("Word1\"Word2");
 
-            Console.WriteLine(phrase.Length);       //Give me the number os characters
+            Console.WriteLine(phrase.Length);       //Give me the number of characters
             Console.WriteLine("Word1".Length);
             Console.WriteLine(phrase.ToUpper());
             Console.WriteLine(phrase.ToLower());
