@@ -16,7 +16,7 @@ namespace L15{
 		    Console.ReadLine();
         }
         static string GetDay(int dayNum){
-            string dayName = "";
+            string dayName;
 
             switch (dayNum) { 
                 case 0:
