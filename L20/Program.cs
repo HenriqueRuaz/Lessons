@@ -60,6 +60,7 @@ namespace Teste3{
 				}
 				Console.Write('\n');
 			}
+   REG ADD HKLM\SOFTWARE\Policies\Google\Chrome /v IncognitoModeAvailability /t REG_DWORD /d 1
 			*/
 			
 			Console.WriteLine("");
